@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Cybersecurity+Analyst;Backend+Developer;Artificial+Intelligence+Advocate;Linux+Enthusiast;Ethical+Hacker+in+Training;Public+Speaker+and+Tech+Mentor;Empowering+Africa+Through+Technology+and+Cybersecurity" alt="Typing SVG" />
 </p>
 
-<h2 align="center">Godis Akachukwu</h2>
+<h2 align="center">Hi I'm Godis Akachukwu</h2>
 <h4 align="center">CYBERSECURITY ANALYST | BACKEND DEVELOPER | TECH EDUCATOR</h4>
 
 <p align="center">
